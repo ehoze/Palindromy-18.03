@@ -1,0 +1,24 @@
+{
+ "string" : aabb, 
+ "palindrom" : "nie" 
+}
+{
+ "string" : abba, 
+ "palindrom" : "tak" 
+}
+{
+ "string" : kobyla ma maly bok, 
+ "palindrom" : "tak" 
+}
+{
+ "string" : cccc, 
+ "palindrom" : "tak" 
+}
+{
+ "string" : 1221, 
+ "palindrom" : "tak" 
+}
+{
+ "string" : 121, 
+ "palindrom" : "tak" 
+}
